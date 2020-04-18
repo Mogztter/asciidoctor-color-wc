@@ -1,5 +1,7 @@
 {
   "imports": {
+    "@spectrum-web-components/avatar": "./@spectrum-web-components/avatar.js",
+    "@spectrum-web-components/status-light": "./@spectrum-web-components/status-light.js",
     "lit-element": "./lit-element.js"
   }
 }
